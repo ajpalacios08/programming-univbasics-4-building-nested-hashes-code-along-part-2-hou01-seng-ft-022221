@@ -61,6 +61,8 @@ def add_characters
    # Code your solution here:
   epic_tragedy[:add_characters] = []
   
+  epic_tragedy[:add_characters][0] = :name => ""
+  
   
 
 
