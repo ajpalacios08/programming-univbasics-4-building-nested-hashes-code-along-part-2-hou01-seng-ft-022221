@@ -61,11 +61,8 @@ def add_characters
    # Code your solution here:
   epic_tragedy[:add_characters] = []
   
-  epic_tragedy[:add_characters][0] = [:name]
+  epic_tragedy[:add_characters][0] = { name: 
   epic_tragedy[:add_characters][1] = [:name]
-  
-  epic_tragedy[:add_characters][0][:name] =
-  epic_tragedy[:add_characters][1][:name] = "Apothecary"
 
 
 
